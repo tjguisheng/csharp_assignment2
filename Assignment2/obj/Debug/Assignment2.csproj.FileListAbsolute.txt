@@ -1,0 +1,7 @@
+E:\JAC\OneDrive - John Abbott College\.net\Assignment\2\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+E:\JAC\OneDrive - John Abbott College\.net\Assignment\2\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+E:\JAC\OneDrive - John Abbott College\.net\Assignment\2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+E:\JAC\OneDrive - John Abbott College\.net\Assignment\2\Assignment2\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+E:\JAC\OneDrive - John Abbott College\.net\Assignment\2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+E:\JAC\OneDrive - John Abbott College\.net\Assignment\2\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+E:\JAC\OneDrive - John Abbott College\.net\Assignment\2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
